@@ -1,3 +1,4 @@
 tmp/*.txt
 tmp/*
 tmp/*.xml
+tmp/*.pdf
